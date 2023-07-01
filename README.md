@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Devpondylus
+- 👀 Tim Toady
+- 🌱 I’m currently learning Front-End!
